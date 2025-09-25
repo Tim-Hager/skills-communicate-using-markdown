@@ -8,3 +8,7 @@
 print("Hello World")
 x = 1
 ```
+
+## Task list
+- [ ] Learn repository management
+- [ ] Manage repository
