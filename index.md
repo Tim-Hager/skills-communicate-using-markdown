@@ -1,4 +1,5 @@
 # This is a header
-###### This is a small header
+###### Yaktocat
 
-Created new markdown file index.md for some first steps with headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
